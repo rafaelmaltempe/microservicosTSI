@@ -1,0 +1,8 @@
+com/trabalhoTsi/JPetSotre/Account/AccountApplication.class
+com/trabalhoTsi/JPetSotre/Account/service/AccountService.class
+com/trabalhoTsi/JPetSotre/Account/mapper/AccountMapper.class
+com/trabalhoTsi/JPetSotre/Account/AccountRest.class
+com/trabalhoTsi/JPetSotre/Account/domain/Sequence.class
+com/trabalhoTsi/JPetSotre/Account/ResourceNotFoundException.class
+com/trabalhoTsi/JPetSotre/Account/service/IAccountService.class
+com/trabalhoTsi/JPetSotre/Account/domain/Account.class
